@@ -1,0 +1,35 @@
+<Students>
+ <Student Name="George Bluth">
+  <CGPA value= "2.1"/>
+  <ChrstineAverage value= "52"/>
+  <Grade value="54"/>
+  <GoalGrade value="65"/>
+  <WorkHours value="20"/>
+  <PersonMeetings value="1"/>
+  <OnlineMeetings value="1"/>
+  <Punctuality value="2"/>
+  <TimeManagement value="1"/>
+  <WorkPeriodLength value="4"/>
+  <Schedule value="1111100"/>
+  <Confidence value="3"/>
+  <PreferredLanguage value="2"/>
+  <CodingMethod value="2"/>
+  <preferredOS value="1"/>
+  <GroupRole value="2"/>
+  <xCGPA value= "2.1"/>
+  <xChrstineAverage value= "52"/>
+  <xGrade value="54"/>
+  <xGoalGrade value="65"/>
+  <xWorkHours value="20"/>
+  <xPersonMeetings value="1"/>
+  <xOnlineMeetings value="1"/>
+  <xPunctuality value="2"/>
+  <xTimeManagement value="1"/>
+  <xWorkPeriodLength value="4"/>
+  <xSchedule value="1111100"/>
+  <xConfidence value="3"/>
+  <xPreferredLanguage value="2"/>
+  <xCodingMethod value="2"/>
+  <xpreferredOS value="1"/>
+ </Student>
+</Students>
